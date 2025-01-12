@@ -64,7 +64,7 @@ Explore multi-agent systems where multiple rovers collaborate to explore Mars an
 This project is licensed. See the LICENSE file for details.
 
 🤝 Contributing
-We welcome contributions! If you have suggestions for improvements, bug fixes, or new features, feel free to submit a pull request. 
+Welcome to contributions! If you have suggestions for improvements, bug fixes, or new features, feel free to submit a pull request. 
 Please ensure all contributions are well-documented and adhere to the project's coding standards.
 
 📬 Contact
