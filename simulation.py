@@ -95,7 +95,7 @@ start, goal = (10, 10), (90, 90)
 best_cost = float('inf')
 best_path = None
 
-for iteration in range(1, 11):  # 10 iterasyon
+for iteration in range(1, 11):  # 10 iteration
     path = stochastic_a_star(mars_surface, start, goal, randomness=0.2)
     cost = calculate_path_cost(mars_surface, path)
 
