@@ -1,28 +1,28 @@
-Mars Pathfinding Simulation with AI-Optimized Algorithms
+Mars Pathfinding Simulation with Stochastic Optimized Algorithms
 
-This project simulates a pathfinding algorithm designed for Mars' rugged terrain using AI-based optimization techniques. The topographic data used in the simulation is artificially generated, and AI-based algorithms like A* are applied to find the most efficient routes for exploration. 
+This project simulates a pathfinding algorithm designed for Mars' rugged terrain using optimization techniques. The topographic data used in the simulation is artificially generated, and pathfinding algorithms like A* are applied to find the most efficient routes for exploration. 
 This simulation provides insights into autonomous vehicle routing and optimization in challenging environments like Mars, and it also has potential applications in the automotive industry for pathfinding and route optimization.
 
 🚀 Overview
-This project demonstrates the use of AI algorithms to simulate pathfinding for autonomous rovers navigating Mars' surface. 
-The simulation is based on artificially generated Mars-like topographic data, not actual Mars data, and it applies AI-based algorithms (Reinforcement Learning - Q learnings) to find the most efficient routes through the terrain.
+This project demonstrates the use of optimization algorithms to simulate pathfinding for autonomous rovers navigating Mars' surface. 
+The simulation is based on artificially generated Mars-like topographic data, not actual Mars data, and it applies a* algorithm to find the most efficient routes through the terrain.
 This approach also showcases how similar techniques can be applied to autonomous driving in the automotive sector.
 
 The main objectives of this project are:
 
-Simulating Mars terrain using artificial data generated through AI.
+Simulating Mars terrain using artificial data generated.
 Implementing pathfinding algorithms to navigate the terrain.
-Optimizing the route using AI techniques to learn and improve the pathfinding process.
+Optimizing the route using stochastic techniques to learn and improve the pathfinding process.
 Drawing parallels to autonomous driving in the automotive sector, especially in challenging or unknown terrains.
 
 🧑‍💻 Technologies Used
 Python: Programming language used to implement the algorithms and simulation.
 Matplotlib: Library used for visualizing the Mars-like terrain and the pathfinding results.
 Numpy: Library used for numerical operations and handling the generated topographic data.
-AI Algorithms: Primarily A* for pathfinding, and additional optimization techniques to improve route efficiency over time.
+Algorithms: Primarily A* for pathfinding, and additional optimization techniques to improve route efficiency over time.
 
 🌍 Simulated Terrain
-The topographic data used in this project is artificially generated through AI techniques to simulate Mars' surface. 
+The topographic data used in this project is artificially generated through a* techniques to simulate Mars' surface. 
 This allows for a flexible and controlled environment in which the pathfinding algorithm can be tested. 
 Unlike real Mars data (such as MOLA), this simulation focuses on creating a simplified yet effective Mars-like terrain to demonstrate pathfinding capabilities.
 
@@ -42,7 +42,7 @@ The program will simulate a rover navigating the Mars-like terrain and visualize
 
 🌟 Features
 Simulated Mars Terrain: The terrain is artificially generated to resemble Mars' surface.
-AI Pathfinding Algorithm: Implements A* and other optimization techniques to simulate autonomous rovers navigating Mars.
+Pathfinding Algorithm: Implements A* and other optimization techniques to simulate autonomous rovers navigating Mars.
 Iterative Learning: The algorithm improves its pathfinding with each run, learning to find more efficient paths.
 Visualization: Visualizes the Mars terrain, rover's path, and iterative improvements using Matplotlib.
 
