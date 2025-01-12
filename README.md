@@ -29,17 +29,15 @@ Unlike real Mars data (such as MOLA), this simulation focuses on creating a simp
 🛠 How to Run the Project
 Clone this repository:
 
-bash
 git clone https://github.com/gndzyaren/mars-pathfinding.git
 cd mars-pathfinding
+
 Install required dependencies:
-
-bash
 pip install -r requirements.txt
-Run the simulation:
 
-bash
+Run the simulation:
 python mars_pathfinding.py
+
 The program will simulate a rover navigating the Mars-like terrain and visualize the pathfinding process.
 
 🌟 Features
@@ -64,7 +62,7 @@ Explore multi-agent systems where multiple rovers collaborate to explore Mars an
 This project is licensed. See the LICENSE file for details.
 
 🤝 Contributing
-We welcome contributions! If you have suggestions for improvements, bug fixes, or new features, feel free to submit a pull request. 
+Welcome to contributions! If you have suggestions for improvements, bug fixes, or new features, feel free to submit a pull request. 
 Please ensure all contributions are well-documented and adhere to the project's coding standards.
 
 📬 Contact
